@@ -1,0 +1,118 @@
+
+body{
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h1{
+    background-color :#AE5038 ;
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h2{
+    background-color :#AE5038 ;
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h3{
+    background-color :#AE5038 ;
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+p{
+    background-color :#AE5038 ;
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+blockquote{
+    background-color :#AE5038 ;
+    color: #FFCB9F ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+a:link{
+    color:#EAB86D ;
+}
+a:visited{
+    color: #FFD99F;
+}
+a:hover{
+    color: #C2644B ;
+}
+.imgleft{
+    float: left;
+    padding-left: 10px;
+}
+.imgright{
+    float: right;
+    padding-right: 10px;
+}
+caption{
+    color:#EAA56D ;
+    border-radius: 30px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+header{
+    width: 860px;
+    height: 200px;
+    background-color: #AE5038;
+    padding: 10px;
+    border: 1px solid #FFCB9F;
+    margin: 8px;
+    padding-top: 0;
+}
+header img{
+    
+}
+nav{
+    margin-top: 0;
+    display: inline;
+}
+nav ul{ 
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #C2644B;
+}
+nav ul li{
+    list-style-type: none;
+    margin: 2px;
+    border-radius: 2px;
+    background-color: #AE5038;
+    color: #FFCB9F;
+    padding: 4px;
+}
+nav ul li:hover{
+    background-color: #FFCB9F;
+    color: #AE5038;
+}
+section{
+    width: 900px;
+    background-image: url("images/backimage.jpg");
+    background-repeat: repeat-y;
+}
+article{
+    width: 900px;
+
+} 
+#container{
+    width: 900px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid;
+    background-color :#AE5038 ;
+
+}
+.navigation{
+    display: flex;
+} 
+article{ 
+    width: 800px;
+    text-align: left;
+    margin:5px5;
+}
